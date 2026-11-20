@@ -1,0 +1,2 @@
+
+{ "name": "gnome-colord", "desktops": ["GNOME", "GNOME-Flashback", "GNOME-Flashback:GNOME"], "priority": 100 }

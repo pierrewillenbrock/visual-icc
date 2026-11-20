@@ -1,5 +1,5 @@
-#include "visual-icc.h"
 
+#include "visual-icc.h"
 #include <QApplication>
 
 int main(int argc, char *argv[])
